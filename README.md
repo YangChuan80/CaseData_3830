@@ -1,5 +1,5 @@
 # Database of ECGs, CAGs and Echocardiographs
-Case Data of the manuscript ***Transvenous Endocardial Pacing with SelectSecure<sup>TM</sup> 3830 Lead in Pediatric Patients: A Case Series of 2 Infants and a Literature Review***
+Case data of the manuscript ***Transvenous Endocardial Pacing with SelectSecure<sup>TM</sup> 3830 Lead in Pediatric Patients: A Case Series of 2 Infants and a Literature Review***
 
 ***Chuan Yang*** (<yangc@sj-hospital.org>), 
 ***Deling Zou*** (<zoudlsy@163.com>)
